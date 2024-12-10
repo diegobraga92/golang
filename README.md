@@ -1,2 +1,2 @@
-# go_refresher
-Small things in Go, mostly from following 'Learning Go:...'
+# Go Codes
+Small things in Go
